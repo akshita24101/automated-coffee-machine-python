@@ -37,9 +37,9 @@
 4. Maintain detailed transaction logs and balance history per user.
 
 ## 📝 **License**
--This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 ## 🙋‍♀️ **Author**
--Akshita Sondhi
--Student (ECE), IIIT-Naya Raipur
--Enthusiastic about electronics, AI, and real-world applications of technology.
+Akshita Sondhi
+Student (ECE), IIIT-Naya Raipur
+Enthusiastic about electronics, AI, and real-world applications of technology.
