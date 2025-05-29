@@ -40,6 +40,6 @@
 This project is licensed under the MIT License.
 
 ## 🙋‍♀️ **Author**
-Akshita Sondhi
-Student (ECE), IIIT-Naya Raipur
+Akshita Sondhi<br>
+Student (ECE), IIIT-Naya Raipur<br>
 Enthusiastic about electronics, AI, and real-world applications of technology.
