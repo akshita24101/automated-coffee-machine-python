@@ -36,10 +36,10 @@
 3. Include animations or sound effects during drink preparation.
 4. Maintain detailed transaction logs and balance history per user.
 
-📝 License
-This project is licensed under the MIT License.
+## 📝 **License**
+-This project is licensed under the MIT License.
 
-🙋‍♀️ Author
-Akshita Sondhi
-Student (ECE), IIIT-Naya Raipur
-Enthusiastic about electronics, AI, and real-world applications of technology.
+## 🙋‍♀️ **Author**
+-Akshita Sondhi
+-Student (ECE), IIIT-Naya Raipur
+-Enthusiastic about electronics, AI, and real-world applications of technology.
